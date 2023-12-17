@@ -40,7 +40,7 @@ body {
 }
 
 .form_wrap {
-  background: url(images/shapka.PNG) center center no-repeat; /*делаем фон для формы, смещаем в центр, убираем повторение*/
+  background: url(img/shapka.PNG) center center no-repeat; /*делаем фон для формы, смещаем в центр, убираем повторение*/
   background-size: cover; /*картинка растягивается на всю ширину блока*/
   padding: 80px 0 145px 0; /*размер картинки*/
 }
